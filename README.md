@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on living an amazing life.
-- 🌱 I’m currently learning how to process data with python.
+- 🔭 I’m currently working on living an amazing life
+- 🌱 I’m currently learning how to process data with python
 - 🤔 I’m looking for help with the must need ability as analyst
 - 💬 Ask me about anything
 - 📫 How to reach me: R56071070@gs.ncku.edu.tw
